@@ -494,7 +494,7 @@ html {
   position: absolute;
   bottom: 0;
   height: 145%;
-  background: url("../../images/photos/hotel_1.png");
+  background: url("../images/photos/hotel_1.png");
   background-size: cover; }
   @media all and (max-width: 1400px) {
     .about__bcg-image {
